@@ -4,7 +4,7 @@
 - Junior Mobile Developer
 - Experience in Web Development
 - Dota2, Valorant, Genshin Impact and other Online Game
-- Currently in learning Kotlin!
+- Currently in learning Kotlin and React Native!
 ---
 
 ### Languages:
@@ -12,7 +12,8 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/kotlin/kotlin.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/kotlin/kotlin.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/react/react.png" />
 <br />
 <br />
 
