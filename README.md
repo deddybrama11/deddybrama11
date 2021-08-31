@@ -1,9 +1,10 @@
 ### Hello world! I'm Dedy Bramayadi.👋
 
 ## I'm Fresh Graduate Developer and also like Gaming!
+- Focusing in Front-end Development
 - Experience in Web/Mobile Development
 - Dota2, Valorant, Monster Hunter and other Online Game
-- Currently in learning React !
+- Currently learning React !
 ---
 
 ### Languages:
