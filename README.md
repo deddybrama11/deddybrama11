@@ -1,10 +1,9 @@
 ### Hello world! I'm Dedy Bramayadi.👋
 
 ## I'm Fresh Graduate Developer and also like Gaming!
-- Junior Mobile Developer
-- Experience in Web Development
-- Dota2, Valorant, Genshin Impact and other Online Game
-- Currently in learning Kotlin and React Native!
+- Experience in Web/Mobile Development
+- Dota2, Valorant, Monster Hunter and other Online Game
+- Currently in learning React !
 ---
 
 ### Languages:
