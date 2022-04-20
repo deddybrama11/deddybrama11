@@ -4,7 +4,7 @@
 - Focusing in Front-end Development
 - Experience in Web/Mobile Development
 - Dota2, Valorant, Monster Hunter and other Online Game
-- Currently learning React !
+- Currently learning Fullstack MERN !
 ---
 
 ### Languages:
